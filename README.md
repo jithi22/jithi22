@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jithi22
 - 👀 I’m interested in Tech,programming ,AI/ML,cyber security
 - 🌱 I’m currently learning software Testing , Scientific computing with python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything that's intresting 
 - 📫 reach me at www.linkedin.com/in/jithinprakashan
 
 <!---
