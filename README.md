@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jithi22
 - 👀 I’m interested in Tech,programming ,AI/ML,cyber security
-- 🌱 I’m currently odoo python developer 2yrs
+- 🌱 I’m currently Senior Odoo python developer 4yrs
 - 💞️ I’m looking to collaborate on anything that's intresting 
 - 📫 reach me at www.linkedin.com/in/jithinprakashan
 
